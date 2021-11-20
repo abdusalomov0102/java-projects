@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16b2f897-d901-4dce-b190-5917759f487e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1vbyCofSfouFUHZK3KJOcYEiZ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="uz.pdp2.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lessons\BackEnd\JAVA\Java_Homework\H13_ContactApp\src\uz\pdp2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.task.Main" />
+      <module name="H13_Contact_App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.Main" />
+      <module name="H13_Contact_App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b2f897-d901-4dce-b190-5917759f487e" name="Default Changelist" comment="" />
+      <created>1580226490473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580226490473</updated>
+      <workItem from="1580226492769" duration="1241000" />
+      <workItem from="1580294400716" duration="8000" />
+      <workItem from="1580295219565" duration="157000" />
+      <workItem from="1580314691416" duration="1301000" />
+      <workItem from="1580319932681" duration="8000" />
+      <workItem from="1580370551297" duration="1372000" />
+      <workItem from="1580383910333" duration="3560000" />
+      <workItem from="1580449671926" duration="29000" />
+      <workItem from="1580502509318" duration="861000" />
+      <workItem from="1580562504318" duration="170000" />
+      <workItem from="1580562980983" duration="132000" />
+      <workItem from="1580563661811" duration="1126000" />
+      <workItem from="1580989953175" duration="6894000" />
+      <workItem from="1583243627874" duration="613000" />
+      <workItem from="1583244485620" duration="624000" />
+      <workItem from="1583303743484" duration="1373000" />
+      <workItem from="1583314922056" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1580226499266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580226499266" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1583304526872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583304526872" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583304425822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583304425822" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580371950828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580371950828" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580998921012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580998921012" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1580998942136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580998942136" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1580998942136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580998942136" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1580998942136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580998942136" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1580998942136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580998942136" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580295220908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580295220908" />
+    <state x="388" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580990785731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1580990785731" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580998938308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580998938308" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580994419981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580994419981" />
+  </component>
+</project>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72341cac-4b80-4ba1-b4ca-7055d07b7d99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xw2i3p30e7eD9FsKD54iJyJg50" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lessons\BackEnd\JAVA\Java_Homework\H18_Calendar\src\uz\pdp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CalendarHappyDay">
+    <configuration name="CalendarDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.java.CalendarDay" />
+      <module name="H18_Calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarDayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.CalendarDayOfWeek" />
+      <module name="H18_Calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarDayOfWeeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.java.CalendarDayOfWeeks" />
+      <module name="H18_Calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarHappyDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.java.CalendarHappyDay" />
+      <module name="H18_Calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.CalendarTask2" />
+      <module name="H18_Calendar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalendarHappyDay" />
+        <item itemvalue="Application.CalendarDayOfWeeks" />
+        <item itemvalue="Application.CalendarDay" />
+        <item itemvalue="Application.CalendarDayOfWeek" />
+        <item itemvalue="Application.CalendarTask2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72341cac-4b80-4ba1-b4ca-7055d07b7d99" name="Default Changelist" comment="" />
+      <created>1581942959522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581942959522</updated>
+      <workItem from="1582015324094" duration="1366000" />
+      <workItem from="1582026939911" duration="4210000" />
+      <workItem from="1582031533839" duration="35000" />
+      <workItem from="1583243549796" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583243571627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583243571627" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1591004231973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591004231973" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1591004231973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591004231973" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1591004231973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591004231973" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1591004231973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591004231973" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591004018858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591004018858" />
+  </component>
+</project>
